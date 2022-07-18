@@ -46,7 +46,7 @@ export default function Posts() {
                 <div>
                     <ion-icon name="heart-outline" onClick={() => {
                         if (redHeart === "heart-outline"){
-                            setRedHeart ("red")
+                            setRedHeart ("liked")
                         }else{
                             setRedHeart ("heart-outline")
                         }

@@ -248,7 +248,7 @@ body {
   align-items: center;
   padding: 20px 0 14px;
 }
-.red{
+ion-icon [name=liked]{
   color: red;
 } 
 .sidebar .sugestoes .sugestao {
